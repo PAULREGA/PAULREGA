@@ -36,7 +36,6 @@ I'm a passionate software engineer with expertise in backend technologies and so
 ![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=Gradle&color=02303A)
 
 ### 🖥️ My Projects
-- **Bulan:** NFT collection.
 - **Alpha-Pins:** Payment integration API and other services.
 - **Fasttour:** Tourism mobile app built with Flutter.
 - **WeatherApp:** Real-time dynamic weather web app.
