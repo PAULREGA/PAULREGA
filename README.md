@@ -43,7 +43,7 @@ I'm a passionate software engineer with expertise in backend technologies and so
 
 
 - 🔭 I’m currently working on various backend projects.
-- 🌱 I’m currently learning advanced cloud technologies.
+- 🌱 I’m currently learning Java and Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about software architecture and backend development.
 - 📫 How to reach me: [pauleke00@gmail.com](mailto:pauleke00@gmail.com).
